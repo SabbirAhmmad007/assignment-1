@@ -5,32 +5,32 @@
   margin: 50px 140px 0px 140px;
   background-repeat: no-repeat;
   min-width: 1320px;
-  height: 600px;
+  min-height: 600px;
+
   background-position: center;
   border-radius: 16px;
+  background-size: cover;
+
+  
+
 }
 
 /* banner-text design start */
+
+.banner-text {
+  text-align: center;
+}
+
 .banner-text > h4 {
   padding-top: 177px;
   color: #fff;
-  text-align: center;
-  /* font-family: Merriweather; */
+  font-family: Merriweather;
   font-size: 32px;
-  /* font-style: normal; */
-  /* font-weight: 400; */
-  /* line-height: normal; */
+  font-weight: 400;
 }
 
 .banner-text > h1 {
   color: #fff;
-  text-align: center;
-
-  /* font-family: Merriweather; */
-
+  font-family: Merriweather;
   font-size: 72px;
-
-  /* font-style: normal; */
-  /* font-weight: 900; */
-  /* line-height: 95px; 131.944% */
 }
