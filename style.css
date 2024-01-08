@@ -1,7 +1,7 @@
 /* banner design start */
 .banner {
   background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url("../images/Banner\ Image.png");
+    url("../assignment-1/images/Banner Image.png");
   margin: 50px 140px 0px 140px;
   background-repeat: no-repeat;
   min-width: 1320px;
@@ -59,7 +59,7 @@
 /* main-second part start */
 .main-second {
   background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url(../images/Vectorrr.png);
+    url("../assignment-1/images/Vectorrr.png");
   background-size: cover;
   background-repeat: no-repeat;
   min-width: 1320px;
@@ -232,4 +232,11 @@ font-family: Inter;
 font-size: 20px;
 line-height: 32px;
 padding: 0px 120px 0px 120px;
+}
+/* .fifth-banner{
+  display: flex;
+  margin:0%;
+} */
+.fifth-banner{
+  background-image: url(../assignment-1/images/Rectangle\ 1.png);
 }
