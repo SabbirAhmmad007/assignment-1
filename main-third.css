@@ -23,6 +23,8 @@
   font-size: 32px;
   line-height: 56px;
   text-transform: capitalize;
+  font-family: Inter;
+  font-weight: 600;
 }
 
 .main-third-span {

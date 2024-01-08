@@ -2,6 +2,7 @@
   display: grid;
   margin: 0px 140px 120px 140px;
   grid-template-columns: repeat(3,1fr);
+  align-items: center;
 }
 .middle-image {
   margin: 100px;

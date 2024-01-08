@@ -3,7 +3,9 @@
   display: grid;
   grid-template-columns: repeat(3, auto);
 
-  justify-content: center;
+  justify-content: left;
+  margin-left: 140px;
+  margin-top: 48px;
   gap: 34px;
 }
 .gift-item {
@@ -14,7 +16,7 @@
 .main-sixth-text {
   margin: 120px 140px 0px 140px;
 }
-.main-sixth>p{
+.main-sixth-text > p{
 color: rgba(7, 2, 17, 0.60);
 font-family: Inter;
 font-size: 20px;
