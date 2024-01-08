@@ -1,0 +1,23 @@
+.main-first {
+  text-align: center;
+}
+.main-first > h1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+  margin-top: 100px;
+}
+.main-first > p {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.main-first > h4 {
+  color: #070211;
+  font-family: Inter;
+  font-size: 48px;
+  margin-top: 0%;
+}

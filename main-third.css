@@ -1,0 +1,43 @@
+
+.main-third {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+  min-width: 1320px;
+  min-height: 482px;
+  text-align: center;
+  font-family: Inter;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-width: 1320px;
+  min-height: 482px;
+  margin: 0px 140px 120px 140px;
+  border-radius: 16px;
+}
+
+.main-third-text {
+  padding: 100px 386px 48px 385px;
+  font-size: 32px;
+  line-height: 56px;
+  text-transform: capitalize;
+}
+
+.main-third-span {
+  color: #f00;
+}
+
+.btn-primary {
+  color: #fff;
+  gap: 10px;
+  background: #f00;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 16px 32px;
+  margin-bottom: 110px;
+}

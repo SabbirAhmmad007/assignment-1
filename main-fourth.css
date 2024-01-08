@@ -1,0 +1,45 @@
+.main-forth-content {
+  display: grid;
+  margin: 0px 140px 120px 140px;
+  grid-template-columns: repeat(3,1fr);
+}
+.middle-image {
+  margin: 100px;
+  align-items: center;
+}
+.primary-heading {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.primary-title {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.main-forth-p {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.middle-image {
+  border: 15px solid #f00;
+  border-radius: 463px;
+  width: 365px;
+  height: 365px;
+  padding: 50px;
+}
+
+.right-content > h1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
