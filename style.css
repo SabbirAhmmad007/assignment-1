@@ -163,7 +163,7 @@ color: #F00;
   
   
 }
-.main-forth-text > h4{
+.primary-heading{
 color: #F00;
 font-family: Inter;
 font-size: 24px;
@@ -226,7 +226,7 @@ font-weight: 900;
 }
 .main-fifth-content > p {
 
-  color: rgba(7, 2, 17, 0.60);
+color: rgba(7, 2, 17, 0.60);
 text-align: center;
 font-family: Inter;
 font-size: 20px;
@@ -247,7 +247,7 @@ padding: 285px;
 }
 
 
-/* probleeeeeeeeeeem */
+/* probleeeeeeeeeeem
 
 .fifth-banner-bottom{
 background: #F00;
@@ -257,6 +257,23 @@ border-radius: 16px 0px 16px 16px;
 margin-left: 140px;
 margin-right: 140px;
 
+} */
+
+/* banner six part start */
+
+
+.gift{
+  display: grid;
+  grid-template-rows:425px 425px ;
+  grid-template-columns: 450px 450px 450px;
+  
+  justify-content: center;
+  row-gap: 34px;
+  
 }
-
-
+.gift-item{
+  /* margin: 34px; */
+  display: flex;
+  justify-content: center;
+}
+.main-sixth-text>h4{}
