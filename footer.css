@@ -1,6 +1,6 @@
 .footer {
   background: #070211;
-width: 100%;
+  width: 100%;
 }
 
 .footer-upper-content {
@@ -10,9 +10,57 @@ width: 100%;
   font-size: 24px;
   font-weight: 500;
   line-height: 40px;
-  text-align: center;
+
   justify-content: space-between;
   padding: 120px 140px;
 }
+/* .image
+align-items: center; */
+.footer-upper-content-l {
+  text-align: left;
+}
+
+.footer-upper-content-r > p > img {
+  margin-right: 10px;
+}
+
 .social-pic {
+  display: flex;
+  padding: 48px 0px 48px 0px;
+  justify-content: center;
+  border-top: 2px rgba(255, 255, 255, 0.15) solid;
+  border-bottom: 2px rgba(255, 255, 255, 0.15) solid;
+  gap: 24px;
+}
+
+.footer-lower {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-lower > p {
+  width: 295px;
+  height: 29px;
+  /* padding: 460px 1165px 120px 140px; */
+  justify-content: left;
+  padding-left: 140px;
+  margin-top: 50px;
+}
+
+.footer-lower > button {
+  width: 145px;
+  height: 29px;
+  margin-top: 25px;
+  padding: 24px 56px;
+  background:none;
+  color: #fff;
+  border: none;
+
+   font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  padding-right: 280px;
 }

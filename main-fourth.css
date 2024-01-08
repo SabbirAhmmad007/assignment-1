@@ -4,10 +4,8 @@
   grid-template-columns: repeat(3,1fr);
   align-items: center;
 }
-.middle-image {
-  margin: 100px;
-  align-items: center;
-}
+
+ 
 .primary-heading {
   color: #f00;
   font-family: Inter;
@@ -36,6 +34,8 @@
   width: 365px;
   height: 365px;
   padding: 50px;
+  margin: 100px;
+  align-items: center;
 }
 
 .right-content > h1 {
