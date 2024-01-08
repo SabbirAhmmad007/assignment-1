@@ -276,4 +276,6 @@ margin-right: 140px;
   display: flex;
   justify-content: center;
 }
-.main-sixth-text>h4{}
+.main-sixth-text{
+  margin: 120px 140px 0px 140px;
+}
